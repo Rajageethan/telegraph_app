@@ -9,7 +9,7 @@ Decode Morse code into readable text.
 User-friendly interface for simulating telegraph communication.
 
 # Tech Stack
-React Native
+React Native and
 Node Js
 
 # Contributing

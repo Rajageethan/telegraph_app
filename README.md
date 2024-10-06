@@ -7,6 +7,10 @@ This project is inspired by my love for World War movies and the classic use of 
 # Features
 Decode Morse code into readable text.
 User-friendly interface for simulating telegraph communication.
+Has the signature Dot and Dash sound.
+
+# How to use
+Tap for Dot and Hold for Dash. Short pass for letter spacing and Long pass for word spacing. Swipe across the screen for backspace.
 
 # Tech Stack
 React Native and

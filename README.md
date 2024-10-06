@@ -12,4 +12,5 @@ User-friendly interface for simulating telegraph communication.
 React Native
 Node Js
 
+# Contributing
 Feel free to submit issues or pull requests to improve the app!
